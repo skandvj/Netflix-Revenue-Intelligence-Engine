@@ -1,5 +1,4 @@
-# Starbucks Data Analysis - Skand Vijay
-
+# Netflix Churn
 ## 📌 Project Overview
 This project explores **Starbucks data** to extract meaningful insights into customer behavior, sales trends, and business strategies. The analysis focuses on:
 
