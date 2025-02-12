@@ -42,4 +42,3 @@ jupyter notebook DSPM_HW1_cleaned.ipynb
 ---
 
 **Maintainer:** [Skand Vijay](https://www.linkedin.com/in/skandvijay/)  
-📧 Contact: skand@example.com  
