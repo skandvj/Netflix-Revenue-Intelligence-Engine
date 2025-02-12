@@ -1,6 +1,6 @@
 # Netflix Churn
 ## 📌 Project Overview
-This project explores **Starbucks data** to extract meaningful insights into customer behavior, sales trends, and business strategies. The analysis focuses on:
+This project explores **Netflix data** to extract meaningful insights into customer behavior, sales trends, and business strategies. The analysis focuses on:
 
 - Data preprocessing & cleaning
 - Exploratory Data Analysis (EDA)
