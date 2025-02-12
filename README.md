@@ -380,7 +380,7 @@ jupyter notebooksmain.ipynb
 ```
 
 ## 🔗 References
-- Starbucks dataset (mention the source if applicable).
+- Natflix dataset
 
 ---
 
