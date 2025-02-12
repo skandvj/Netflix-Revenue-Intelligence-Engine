@@ -364,20 +364,20 @@ By addressing the pain points of Cluster 1, the company can reduce churn and imp
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/skandvj/Predictive-Sales-Performance-Optimization-for-Netflix/)
 cd <your-repo-folder>
 ```
 
 ### 2️⃣ Install Dependencies
 Ensure you have Python installed. Then, install required dependencies:
 ```bash
-pip install -r requirements_hw2.txt
+pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Notebook
-Launch Jupyter Notebook and open `skandv_HW2_cleaned.ipynb`:
+Launch Jupyter Notebook and open `main.ipynb`:
 ```bash
-jupyter notebook skandv_HW2_cleaned.ipynb
+jupyter notebooksmain.ipynb
 ```
 
 ## 🔗 References
@@ -386,4 +386,4 @@ jupyter notebook skandv_HW2_cleaned.ipynb
 ---
 
 **Maintainer:** [Skand Vijay](https://www.linkedin.com/in/skandvijay/)  
-📧 Contact: skand@example.com  
+
