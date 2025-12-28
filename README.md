@@ -10,7 +10,7 @@ This project explores **Netflix data** to extract meaningful insights into custo
 
 - 
 ## Architecture
-![Architecture](Nerflix.png)
+![Architecture](Netflix.png)
 
 
 ## 📊 Analysis & Insights
